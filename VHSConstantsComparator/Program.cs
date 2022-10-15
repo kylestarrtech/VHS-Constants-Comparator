@@ -4,7 +4,7 @@ using System.Diagnostics;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 
-namespace VHSConstantsComparator // Note: actual namespace depends on the project name.
+namespace VHSConstantsComparator
 {
     internal class Program
     {
